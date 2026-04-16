@@ -2,8 +2,8 @@
 
 Usando ESP32 y Sensores MQ
 
-Martin Ortega
-Alejandro Riveros
+Martin Ortega, 
+Alejandro Riveros, 
 Camilo Torres
 
 Universidad de la Sabana 2026
