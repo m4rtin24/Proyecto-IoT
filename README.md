@@ -203,4 +203,11 @@ configTime(-5 * 3600, 0, "pool.ntp.org", "time.nist.gov");
 - Adafruit. (2024). *Adafruit SSD1306 Library Documentation*. https://github.com/adafruit/Adafruit_SSD1306
 - Knolleary. (2023). *PubSubClient Arduino Library*. https://github.com/knolleary/pubsubclient
 
+---
+
+## 15. Prototipo Físico
+
+---
+
+## 16. Dashboard web
 
